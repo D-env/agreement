@@ -1,5 +1,7 @@
 # Team Agreements
 
+## Team Members Vinny Shipley, Dana Huffman, SAm Brindle, Matthew Larkin, Rikki Plaza
+
 ## Cooperation Plan
 
 Vinny Shipley
